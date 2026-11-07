@@ -9,6 +9,13 @@ scoop bucket add franorde https://github.com/FRANORDE/scoop-bucket
 scoop install <app-name>
 ```
 
+## Uninstallation
+
+```
+scoop uninstall <app-name>
+scoop bucket rm franorde
+```
+
 ### Notes
 
 `scoop update` isn't needed right after adding the bucket. Run it later to get new versions of the apps.
