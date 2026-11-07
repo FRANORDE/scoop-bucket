@@ -2,6 +2,8 @@
 
 Scoop bucket for FRANORDE’s apps
 
+**Prequisite**: [Scoop](https://scoop.sh/)
+
 ## Installation
 
 ```
