@@ -4,16 +4,13 @@ Scoop bucket for FRANORDE’s apps
 
 ## Installation
 
-​```
-scoop bucket add franorde https://github.com/FRANORDE/scoop-bucket
+​```scoop bucket add franorde https://github.com/FRANORDE/scoop-bucket
 scoop update
-scoop install <package name (lowercase)>
-​```
+scoop install <package name (lowercase)>```
 
 ### Note
 
-
-`scoop update` isn't needed for the normal installation, but is reccommended
+`scoop update` isn't needed right after adding the bucket. Run it later to get new versions of the apps.
 
 ## Apps
 
