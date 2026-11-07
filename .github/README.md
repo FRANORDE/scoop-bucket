@@ -18,6 +18,6 @@ For example, to install WaveR: `scoop install waver`
 
 ## Apps
 
-| App | Description |
+| App name | Description |
 |---|---|
 | [waver](https://github.com/FRANORDE/WaveR) | A simple, cozy local music player |
