@@ -10,12 +10,15 @@
         }
     },
     "bin": "WaveR.exe",
-    "shortcuts": [["WaveR.exe", "WaveR"]]
+    "shortcuts": [["WaveR.exe", "WaveR"]],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/FRANORDE/WaveR/releases/download/v$version/WaveR-x64.zip"
+                "url": "https://github.com/FRANORDE/WaveR/releases/download/v$version/WaveR-x64.zip",
+                "hash": {
+                    "url": "$url.sha256"
+                }
             }
         }
     }
