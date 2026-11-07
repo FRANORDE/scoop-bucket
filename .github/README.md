@@ -13,8 +13,9 @@ scoop install <app-name>
 
 ```
 scoop uninstall <app-name>
-scoop bucket rm franorde
 ```
+
+To also remove the bucket, use `scoop bucket rm franorde`
 
 ### Notes
 
