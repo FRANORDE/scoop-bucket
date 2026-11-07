@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/FRANORDE/WaveR/releases/download/v1.0.0/WaveR-x64.zip",
-            "hash": "cadf817ffc920dc285b0ae774b9491a848d17171c0a9058b745149019ca33596""
+            "hash": "cadf817ffc920dc285b0ae774b9491a848d17171c0a9058b745149019ca33596"
         }
     },
     "bin": "WaveR.exe",
