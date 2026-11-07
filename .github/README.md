@@ -13,6 +13,7 @@ scoop install <package name (lowercase)>
 ​```
 ### Note
 
+
 `scoop update` isn't needed for the normal installation, but is reccommended
 
 ## Apps
