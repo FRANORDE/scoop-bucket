@@ -21,8 +21,6 @@ To also remove the bucket, use `scoop bucket rm franorde`
 
 ### Notes
 
-`scoop update` isn't needed right after adding the bucket. Run it later to get new versions of the apps.
-
 Replace `<app-name>` with the app you want to install.
 For example, to install WaveR: `scoop install waver`
 
