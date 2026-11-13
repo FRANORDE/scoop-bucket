@@ -1,12 +1,12 @@
 {
-    "version": "1.2.1",
+    "version": "2.0.0",
     "description": "A simple, cozy local music player",
     "homepage": "https://github.com/FRANORDE/WaveR",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/FRANORDE/WaveR/releases/download/v1.2.1/WaveR-x64.zip",
-            "hash": "fd394986582a7481a0c580e8b82eeaf81249892e4d3bd551a3292da6afa08ea0"
+            "url": "https://github.com/FRANORDE/WaveR/releases/download/v2.0.0/WaveR-x64.zip",
+            "hash": "5c852b0701439ee7536c9d8d188ec980644d76fdaa968cd9382977156273e52d"
         }
     },
     "bin": "WaveR.exe",
